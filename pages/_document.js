@@ -30,14 +30,14 @@ class MyDocument extends Document {
             rel="stylesheet"
           />
           <link rel="stylesheet" href="https://unpkg.com/swiper@6.6.2/swiper-bundle.min.css" />
-          <meta property="og:title" content="Commerce.js | Demo storefront" />
+          <meta property="og:title" content="Dripping Wet Disposables | E-Commerce and Wholesale" />
           <meta property="og:image" content="https://cdn.chec.io/email/assets/marketing/demo-preview.png" />
-          <meta property="og:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
+          <meta property="og:description" content="Tired of disposables not lasting long? Upgrade to a Dripping Wet Extreme disposable vape which has 2000 puffs per device. The design is slim and surprisingly is still very compact for 2000 puffs disposable. This is for sure the luxury of disposables! Sporting a 1200 mAh battery that delivers consistent excellent flavor each puff. The Extreme disposables are pre-filled with 5.% salt nicotine level rather than regular disposable which have only 5% salt nicotine strength. This device is slightly harsher if you are looking for a stronger buzz!" />
           <meta property="og:url" content="https://commercejs-demo-store.netlify.app" />
-          <meta property="twitter:title" content="Commerce.js | Demo storefront" />
-          <meta name="twitter:creator" content="@commercejs" />
+          <meta property="twitter:title" content="Dripping Wet Disposables | E-Commerce and Wholesale" />
+          <meta name="twitter:creator" content="@artificialaddy" />
           <meta property="twitter:image" content="https://cdn.chec.io/email/assets/marketing/demo-preview.png" />
-          <meta property="twitter:description" content="A custom, open source demo storefront built with Next.js and Commerce.js. Take a look!" />
+          <meta property="twitter:description" content="Tired of disposables not lasting long? Upgrade to a Dripping Wet Extreme disposable vape which has 2000 puffs per device. The design is slim and surprisingly is still very compact for 2000 puffs disposable. This is for sure the luxury of disposables! Sporting a 1200 mAh battery that delivers consistent excellent flavor each puff. The Extreme disposables are pre-filled with 5.% salt nicotine level rather than regular disposable which have only 5% salt nicotine strength. This device is slightly harsher if you are looking for a stronger buzz!" />
           <meta name="twitter:card" content="summary_large_image" />
         </Head>
         <body>
