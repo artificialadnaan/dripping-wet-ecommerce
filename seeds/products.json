@@ -1,7 +1,7 @@
 [
   {
     "product": {
-      "name": "Face & Body Roller",
+      "name": "Dripping Wet",
       "description": "Enrich your morning and evening beauty ritual and to help reduce the appearance of puffiness and wrinkles",
       "price": "18.00",
       "category_id": "categories[2].id"
@@ -24,7 +24,7 @@
   },
   {
     "product": {
-      "name": "Cure Scrub Kit",
+      "name": "Dripping Wet Extra",
       "description": "Cleanse and rejuvenate your skin with bamboo bristle scrubbing brushes.",
       "price": "51.00",
       "category_id": "categories[2].id"
@@ -47,7 +47,7 @@
   },
   {
     "product": {
-      "name": "Molecule Body Oil",
+      "name": "Dripping Wet Extreme",
       "description": "For a silky smooth finish, the Molecule Body Oil is a perfect addition for your post shower treatment.",
       "price": "23.00",
       "category_id": "categories[2].id"
@@ -70,7 +70,7 @@
   },
   {
     "product": {
-      "name": "Lip Fantastic",
+      "name": "Dripping Delta 8",
       "description": "A limited-edition, nourishing lip gel to top off your look and feel fantastic.",
       "price": "24.00",
       "category_id": "categories[0].id"

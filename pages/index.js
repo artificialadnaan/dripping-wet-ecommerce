@@ -12,7 +12,7 @@ import ProductsBanner from '../components/homepage/ProductsBanner';
 const Home = () => (
   <Root transparentHeader={true}>
     <Head>
-      <title>dripping wet disposables | e-commerce and wholesale </title>
+      <title>Dripping Wet Disposables | e-commerce and wholesale </title>
     </Head>
 
     <HeroSection />
